@@ -1,6 +1,6 @@
 # my_notes_app
 
-A new Flutter application.
+An elegant notes taking app written in Flutter that uses sqflite for storage.
 
 ## Getting Started
 
